@@ -1,0 +1,1 @@
+# MoonChatBot is a chatbot using a synchronisation engine to communicate with Universal Intelligence and the User. It is a chatbot that is designed allow you to explore ideas in flow with the natural synchronicities and serendipities of the universe
